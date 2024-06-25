@@ -15,7 +15,7 @@ body {
   width: 100%;
   height: 100%;
   z-index: 10;
-  background-color: rgb(238, 255, 254);
+  background-color: #eefffe;
   display: flex;
   justify-content: center;
   align-items: center;
