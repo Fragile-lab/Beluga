@@ -133,6 +133,7 @@ table td.info {
   transform: translate(-50%, -50%);
   z-index: 0;
   margin: 0 !important;
+  pointer-events: none;
 }
 
 .footer {
