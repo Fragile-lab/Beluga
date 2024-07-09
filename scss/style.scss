@@ -122,6 +122,18 @@ table {
         }
     }
 }
+.javahere {
+    font-size: 128px;
+    font-weight: 600;
+    text-transform: uppercase;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    color: #00000025;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    margin: 0 !important;
+}
 .footer {
     padding: 20px 0;
 }
